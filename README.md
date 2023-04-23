@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fever0
+- 👋 Hi, I’m @fever0 `Abhishek Sharma`.
 - 👀 I’m interested in Data Structures, Golang, PostgreSQL, MongoDB.
-- 🌱 I’m currently code in Golang.
+- 🌱 I’m a backend software dev, and currently code in Golang.
 - 💞️ I’m looking to collaborate on any opportunies to harness my skills.
 - 📫 How to reach me ... mail me at `brothersintel@gmail.com` or at linkedin `https://www.linkedin.com/in/aksfever/`
 
